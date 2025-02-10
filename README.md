@@ -19,7 +19,7 @@ Este projeto em **Java** implementa a gestão de funcionários de uma indústria
 - **LocalDate** para manipulação de datas  
 - **Map e List** para organização dos funcionários  
 
-💡 **Autor:** [João Paulo Ferreira Alves](https://github.com/seu-usuario)  
+💡 **Autor:** [João Paulo Ferreira Alves](https://github.com/jpfalves)  
 
 Se gostou do projeto, ⭐ marque este repositório! 🚀
 
